@@ -7,7 +7,7 @@
 
 - 💡 What should people know about me: I enjoy doing challenging coding-oriented tasks and exploring various ways analyzing data using multiple techniques.
 - 🔭 My other analytics projects involve:
-    - spatial analysis of fire incidents,
+    - spatial analysis of fire incidents (point and polygon data),
     - big data analysis of road accidents data,
     - profitability assessment of selected stocks, and
     - big data analysis on dating preferences survey data
